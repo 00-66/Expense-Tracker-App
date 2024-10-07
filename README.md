@@ -9,4 +9,3 @@ insights into spending patterns over time.
 # Screeshots of the Output
 ![image](https://github.com/whoanujyadav/Expense-Tracker-App-Using-MERN-Stack/assets/91775250/cebf3349-6c5a-4407-9d51-6701cc7a9cae)
 ![image](https://github.com/whoanujyadav/Expense-Tracker-App-Using-MERN-Stack/assets/91775250/3498d22e-9ff5-4515-bec8-dadf6dbd0ad3)
-![image](https://github.com/whoanujyadav/Expense-Tracker-App-Using-MERN-Stack/assets/91775250/2d4d87df-1776-47e0-8194-0dec5fb2a85a)
